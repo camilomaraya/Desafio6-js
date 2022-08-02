@@ -1,0 +1,19 @@
+body{
+    background-color: darkslategray;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+
+.title h1{
+    color: white;
+}
+
+.card{
+    align-items: center;
+    --bs-card-bg: white;
+    color: black;
+}
+
